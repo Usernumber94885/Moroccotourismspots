@@ -1,0 +1,23 @@
+body{
+background-color: Maroon;
+background: rgb(182, 52, 2, 0.6);
+}
+h1{
+text-align: Center;
+font-family: "Times new roman";
+}
+#title2{
+text-align: Right;
+font-family: "Times new roman";
+}
+h3{
+ font-size: 30px;
+}
+.notable{
+ font-size: 25px;
+ font-style: oblique;
+}
+p{
+font-size: 20px;
+font-family: "Times new roman";
+}
